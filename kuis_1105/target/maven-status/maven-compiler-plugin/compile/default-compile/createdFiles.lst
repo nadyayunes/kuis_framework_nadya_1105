@@ -1,0 +1,9 @@
+tib\kuis_1105\controller\MobilController.class
+tib\kuis_1105\service\AksesorisService.class
+tib\kuis_1105\service\MobilService.class
+tib\kuis_1105\Kuis1105Application.class
+tib\kuis_1105\entity\Mobil.class
+tib\kuis_1105\repo\MobilRepo.class
+tib\kuis_1105\controller\AksesorisController.class
+tib\kuis_1105\entity\Aksesoris.class
+tib\kuis_1105\repo\AksesorisRepo.class
